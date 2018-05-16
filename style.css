@@ -1,0 +1,18 @@
+body {
+    color: #444;
+    font-family: Arial, sans-serif;}
+    
+ 
+.container {
+    width: 100%;
+    max-width: 960px;
+    }
+
+		.heading{color:black;
+			background-color: #fc0;
+		    font-family: Times New Roman;}
+        .biaotikuang1{width:345px;
+        	height: 50px;
+	        background-color: #fc0;}
+       
+	
